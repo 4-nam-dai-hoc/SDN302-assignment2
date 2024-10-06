@@ -31,7 +31,3 @@ yarn dev
 
 <br>
 
-## Contributor
-<a href="https://github.com/SDN302-17C/assignment-2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SDN302-17C/assignment-2" />
-</a>
